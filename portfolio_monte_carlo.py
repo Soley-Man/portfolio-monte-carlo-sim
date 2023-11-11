@@ -36,7 +36,7 @@ import numpy as np
 #    growth of all the simulated portfolios as well as the distribution of the
 #    growth outcomes. The program will also print some statistics such as the
 #    mean, median, and range of the growth outcomes.
-# 4) If you wish to know the probability that the portfolio grows within a 
+# 6) If you wish to know the probability that the portfolio grows within a 
 #    certain range, or either above or below a certain threshold, use the 
 #    function growth_probaility() as per its docstring.
 
